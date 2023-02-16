@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/t0rik/vesta-php-fpm-81/total.svg)]()
 # vesta-php-fpm-81
 VestaCP PHP templates for PHP 8.1
 
